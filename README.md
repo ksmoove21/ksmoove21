@@ -16,9 +16,6 @@ Outside of work, I maintain a multi-site homelab where I explore new technologie
 
 ## Explore My Projects
 
-- **[Homelab Projects](https://github.com/ksmoove21/homelab-projects)**  
-  A directory of my infrastructure engineering projects, labs, and experiments.
-
 - **[UNSC Homelab](https://github.com/ksmoove21/homelab)**  
   My personal multi-site infrastructure and engineering showcase.
 
