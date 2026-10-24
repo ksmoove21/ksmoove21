@@ -1,54 +1,35 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Hi, I'm Kendall!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+**Infrastructure Engineer**
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+I'm an engineer who enjoys working with infrastructure (think systems, storage, networking, virtualization, etc.). I enjoy designing, building, and understanding how these technologies work together.
 
-<h2>📺 Popular YouTube Videos</h2>
+Outside of work, I maintain a multi-site homelab where I explore new technologies, develop engineering solutions, and experiment with complex infrastructure architectures.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## Featured Projects
 
-<h2> 🤳 Connect with me:</h2>
+- **[EVE-NG Automation](https://github.com/ksmoove21/eve-ng-automation)**  
+  Network lab automation, device provisioning, and infrastructure validation.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **[UNSC DN42](https://github.com/ksmoove21/unsc-dn42)**  
+  BGP routing, SD-WAN integration, and secure multi-site networking.
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Explore My Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Virtual Networking Projects**  
+  A collection of networking labs, designs, and technical experiments. *(Coming soon)*
 
-Here are some ideas to get you started:
+- **UNSC Homelab**  
+  My personal multi-site infrastructure and engineering showcase. *(Coming soon)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+[![CCNP Enterprise](https://img.shields.io/badge/Cisco-CCNP%20Enterprise-087E8B?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b462db75-96c4-4551-9e09-e8adcdf6e8e7)
+[![VCP-DCV](https://img.shields.io/badge/VMware-VCP--DCV-3974B6?style=for-the-badge)](https://www.credly.com/badges/ce73c602-c7eb-48a0-b822-9f29c53acf72)
+[![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-C62828?style=for-the-badge)](https://www.credly.com/badges/e16966b2-cc42-425f-b656-997218daba09)
+
+[View All Certifications on Credly](https://www.credly.com/users/kendall-powell/badges/credly)
+
+## Connect With Me
+
+[GitHub](https://github.com/ksmoove21) | LinkedIn
