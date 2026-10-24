@@ -19,8 +19,8 @@ Outside of work, I maintain a multi-site homelab where I explore new technologie
 - **Virtual Networking Projects**  
   A collection of networking labs, designs, and technical experiments. *(Coming soon)*
 
-- **UNSC Homelab**  
-  My personal multi-site infrastructure and engineering showcase. *(Coming soon)*
+- **[UNSC Homelab](https://github.com/ksmoove21/homelab)**  
+  My personal multi-site infrastructure and engineering showcase.
 
 ## Certifications
 
